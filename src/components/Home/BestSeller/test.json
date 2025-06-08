@@ -1,0 +1,458 @@
+[
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1a3",
+        "name": "iPhone 15 Pro Max 256GB",
+        "description": "Siêu phẩm iPhone 15 Pro Max với bộ nhớ 256GB, camera đỉnh cao và chip A17 Bionic.",
+        "price": 35990000,
+        "images": [
+            "https://cdn.fptshop.com.vn/Uploads/Originals/2023/9/13/638302307304677765_iphone-15-pro-max-xanh-1.jpg",
+            "https://cdn.fptshop.com.vn/Uploads/Originals/2023/9/13/638302307304521568_iphone-15-pro-max-den-1.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a001",
+        "stock": 150,
+        "slug": "iphone-15-pro-max-256gb",
+        "isActive": true,
+        "reviews": 125,
+        "discountedPrice": 32990000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1a4",
+        "name": "iPhone 15 128GB",
+        "description": "iPhone 15 tiêu chuẩn với thiết kế đột phá, Dynamic Island và camera nâng cấp.",
+        "price": 22990000,
+        "images": [
+            "https://cdn.fptshop.com.vn/Uploads/Originals/2023/9/13/638302347318181313_iphone-15-hong-1.jpg",
+            "https://cdn.fptshop.com.vn/Uploads/Originals/2023/9/13/638302347318337586_iphone-15-xanh-1.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a001",
+        "stock": 200,
+        "slug": "iphone-15-128gb",
+        "isActive": true,
+        "reviews": 90,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1a5",
+        "name": "MacBook Air M2 13 inch",
+        "description": "Laptop siêu mỏng nhẹ Apple M2, màn hình Liquid Retina tuyệt đẹp.",
+        "price": 28990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/44/287040/macbook-air-m2-13-inch-2022-bac-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/44/287040/macbook-air-m2-13-inch-2022-xam-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a001",
+        "stock": 80,
+        "slug": "macbook-air-m2-13-inch",
+        "isActive": true,
+        "reviews": 60,
+        "discountedPrice": 26990000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1a6",
+        "name": "iPad Pro 12.9 inch M2",
+        "description": "iPad Pro mạnh mẽ với chip M2, màn hình Liquid Retina XDR và ProMotion.",
+        "price": 32990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/57/287092/ipad-pro-m2-129-inch-wifi-xam-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/57/287092/ipad-pro-m2-129-inch-wifi-bac-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a001",
+        "stock": 90,
+        "slug": "ipad-pro-12-9-inch-m2",
+        "isActive": true,
+        "reviews": 45,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1a7",
+        "name": "Apple Watch Series 9",
+        "description": "Đồng hồ thông minh Apple Series 9 với nhiều tính năng sức khỏe và kết nối.",
+        "price": 11990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/314815/apple-watch-series-9-41mm-den-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/314815/apple-watch-series-9-41mm-hong-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a001",
+        "stock": 120,
+        "slug": "apple-watch-series-9",
+        "isActive": true,
+        "reviews": 70,
+        "discountedPrice": 10500000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1a8",
+        "name": "Samsung Galaxy S24 Ultra 512GB",
+        "description": "Samsung Galaxy S24 Ultra, camera 200MP, AI tạo sinh đột phá.",
+        "price": 30990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/42/306745/samsung-galaxy-s24-ultra-xam-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/42/306745/samsung-galaxy-s24-ultra-tim-thumb-1-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a002",
+        "stock": 180,
+        "slug": "samsung-galaxy-s24-ultra-512gb",
+        "isActive": true,
+        "reviews": 150,
+        "discountedPrice": 28500000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1a9",
+        "name": "Samsung Galaxy Z Fold 5 256GB",
+        "description": "Điện thoại gập Samsung Galaxy Z Fold 5, đa nhiệm và giải trí đỉnh cao.",
+        "price": 28990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/42/306742/samsung-galaxy-z-fold5-den-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/42/306742/samsung-galaxy-z-fold5-xanh-thumb-1-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a002",
+        "stock": 90,
+        "slug": "samsung-galaxy-z-fold-5-256gb",
+        "isActive": true,
+        "reviews": 80,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1aa",
+        "name": "Samsung Galaxy Tab S9 Ultra",
+        "description": "Máy tính bảng Samsung Galaxy Tab S9 Ultra, màn hình lớn, S Pen.",
+        "price": 25990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/57/306758/samsung-galaxy-tab-s9-ultra-den-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/57/306758/samsung-galaxy-tab-s9-ultra-xanh-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a002",
+        "stock": 70,
+        "slug": "samsung-galaxy-tab-s9-ultra",
+        "isActive": true,
+        "reviews": 55,
+        "discountedPrice": 23500000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1ab",
+        "name": "Samsung Galaxy Watch 6 Classic",
+        "description": "Đồng hồ thông minh Samsung Galaxy Watch 6 Classic, viền xoay, sức khỏe.",
+        "price": 7990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/306750/samsung-galaxy-watch6-classic-bac-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/306750/samsung-galaxy-watch6-classic-den-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a002",
+        "stock": 150,
+        "slug": "samsung-galaxy-watch-6-classic",
+        "isActive": true,
+        "reviews": 70,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1ac",
+        "name": "Samsung Galaxy Buds 2 Pro",
+        "description": "Tai nghe không dây Samsung Galaxy Buds 2 Pro, âm thanh Hi-Fi.",
+        "price": 3990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/54/278912/samsung-galaxy-buds2-pro-den-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/54/278912/samsung-galaxy-buds2-pro-trang-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a002",
+        "stock": 200,
+        "slug": "samsung-galaxy-buds-2-pro",
+        "isActive": true,
+        "reviews": 110,
+        "discountedPrice": 3490000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1ad",
+        "name": "Google Pixel 8 Pro 256GB",
+        "description": "Google Pixel 8 Pro, chip Tensor G3, camera AI hàng đầu.",
+        "price": 24990000,
+        "images": [
+            "https://cdn.hoanghamobile.com/tin-tuc/wp-content/uploads/2023/10/Google-Pixel-8-Pro-thumbnail.jpg",
+            "https://cdn.hoanghamobile.com/tin-tuc/wp-content/uploads/2023/10/Pixel-8-Pro-Blue-2.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a003",
+        "stock": 100,
+        "slug": "google-pixel-8-pro-256gb",
+        "isActive": true,
+        "reviews": 85,
+        "discountedPrice": 22500000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1ae",
+        "name": "Google Pixel 8 128GB",
+        "description": "Google Pixel 8 nhỏ gọn, sức mạnh AI không đổi.",
+        "price": 18990000,
+        "images": [
+            "https://cdn.hoanghamobile.com/tin-tuc/wp-content/uploads/2023/10/Google-Pixel-8-thumbnail.jpg",
+            "https://cdn.hoanghamobile.com/tin-tuc/wp-content/uploads/2023/10/Pixel-8-Blue-1.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a003",
+        "stock": 130,
+        "slug": "google-pixel-8-128gb",
+        "isActive": true,
+        "reviews": 60,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1af",
+        "name": "Google Pixel Watch 2",
+        "description": "Đồng hồ thông minh Google Pixel Watch 2, theo dõi sức khỏe và AI.",
+        "price": 6990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/314815/google-pixel-watch-2-bluetooth-wifi-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/314815/google-pixel-watch-2-bluetooth-wifi-den-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a003",
+        "stock": 110,
+        "slug": "google-pixel-watch-2",
+        "isActive": true,
+        "reviews": 40,
+        "discountedPrice": 6200000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b0",
+        "name": "Google Pixel Buds Pro",
+        "description": "Tai nghe Google Pixel Buds Pro, chống ồn chủ động, âm thanh đỉnh cao.",
+        "price": 4290000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/54/287313/google-pixel-buds-pro-den-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/54/287313/google-pixel-buds-pro-xanh-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a003",
+        "stock": 160,
+        "slug": "google-pixel-buds-pro",
+        "isActive": true,
+        "reviews": 75,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b1",
+        "name": "Google Nest Hub 2nd Gen",
+        "description": "Màn hình thông minh Google Nest Hub, điều khiển nhà, giải trí.",
+        "price": 2490000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/10530/236109/google-nest-hub-2nd-gen-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/10530/236109/google-nest-hub-2nd-gen-nau-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a003",
+        "stock": 90,
+        "slug": "google-nest-hub-2nd-gen",
+        "isActive": true,
+        "reviews": 30,
+        "discountedPrice": 1990000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b2",
+        "name": "Xiaomi 14 Ultra 512GB",
+        "description": "Xiaomi 14 Ultra, camera Leica, hiệu năng cực đỉnh.",
+        "price": 27990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/42/323382/xiaomi-14-ultra-xanh-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/42/323382/xiaomi-14-ultra-den-thumb-1-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a004",
+        "stock": 110,
+        "slug": "xiaomi-14-ultra-512gb",
+        "isActive": true,
+        "reviews": 65,
+        "discountedPrice": 25500000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b3",
+        "name": "Redmi Note 13 Pro+ 5G",
+        "description": "Redmi Note 13 Pro+, camera 200MP, sạc siêu nhanh.",
+        "price": 9990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/42/323377/redmi-note-13-pro-plus-xanh-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/42/323377/redmi-note-13-pro-plus-den-thumb-1-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a004",
+        "stock": 220,
+        "slug": "redmi-note-13-pro-plus-5g",
+        "isActive": true,
+        "reviews": 180,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b4",
+        "name": "Xiaomi Pad 6 Pro",
+        "description": "Máy tính bảng Xiaomi Pad 6 Pro, màn hình 2.8K.",
+        "price": 10990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/57/303965/xiaomi-pad-6-xam-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/57/303965/xiaomi-pad-6-xanh-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a004",
+        "stock": 80,
+        "slug": "xiaomi-pad-6-pro",
+        "isActive": true,
+        "reviews": 50,
+        "discountedPrice": 9800000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b5",
+        "name": "Xiaomi Smart Band 8 Pro",
+        "description": "Vòng đeo tay thông minh Xiaomi Smart Band 8 Pro, theo dõi sức khỏe.",
+        "price": 1490000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/311656/xiaomi-smart-band-8-pro-den-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/311656/xiaomi-smart-band-8-pro-trang-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a004",
+        "stock": 300,
+        "slug": "xiaomi-smart-band-8-pro",
+        "isActive": true,
+        "reviews": 200,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b6",
+        "name": "Xiaomi Robot Vacuum E10",
+        "description": "Robot hút bụi Xiaomi Robot Vacuum E10, hút bụi thông minh.",
+        "price": 4990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/10531/303968/robot-hut-bui-lau-nha-xiaomi-robot-vacuum-e10-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/10531/303968/robot-hut-bui-lau-nha-xiaomi-robot-vacuum-e10-spec-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a004",
+        "stock": 50,
+        "slug": "xiaomi-robot-vacuum-e10",
+        "isActive": true,
+        "reviews": 25,
+        "discountedPrice": 4200000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b7",
+        "name": "Oppo Find X7 Ultra",
+        "description": "Oppo Find X7 Ultra, camera Hasselblad, hiệu năng đỉnh cao.",
+        "price": 26990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/42/325785/oppo-find-x7-ultra-den-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/42/325785/oppo-find-x7-ultra-xanh-thumb-1-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a005",
+        "stock": 90,
+        "slug": "oppo-find-x7-ultra",
+        "isActive": true,
+        "reviews": 40,
+        "discountedPrice": 24500000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b8",
+        "name": "Oppo Reno 11 Pro 5G",
+        "description": "Oppo Reno 11 Pro 5G, camera chân dung chuyên nghiệp.",
+        "price": 14990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/42/314275/oppo-reno11-pro-xam-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/42/314275/oppo-reno11-pro-trang-thumb-1-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a005",
+        "stock": 180,
+        "slug": "oppo-reno-11-pro-5g",
+        "isActive": true,
+        "reviews": 120,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1b9",
+        "name": "Oppo Pad 2",
+        "description": "Máy tính bảng Oppo Pad 2, giải trí và làm việc hiệu quả.",
+        "price": 11990000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/57/304193/oppo-pad-2-xam-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/57/304193/oppo-pad-2-xanh-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a005",
+        "stock": 60,
+        "slug": "oppo-pad-2",
+        "isActive": true,
+        "reviews": 35,
+        "discountedPrice": 10500000,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    },
+    {
+        "featured": false,
+        "_id": "6843a32810358260d25ee1ba",
+        "name": "Oppo Enco X2",
+        "description": "Tai nghe Oppo Enco X2, âm thanh Dynaudio, chống ồn thông minh.",
+        "price": 3290000,
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/54/278857/oppo-enco-x2-den-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/54/278857/oppo-enco-x2-trang-thumb-600x600.jpg"
+        ],
+        "category": "66627d65f57e1b8b58a1a005",
+        "stock": 140,
+        "slug": "oppo-enco-x2",
+        "isActive": true,
+        "reviews": 95,
+        "discountedPrice": 0,
+        "createdAt": "2025-06-07T09:20:14.000Z",
+        "updatedAt": "2025-06-07T09:20:14.000Z"
+    }
+]
